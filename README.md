@@ -1,4 +1,4 @@
-# Desafio 02: Corrigindo Bugs - Rocketseat Explorer
+# Desafio 02: Corrigindo Bugs - Rocketseat Explorer :rocket:
 
 Esse é o segundo desafio disponível no curso, no Stage 02 - Conhecendo novos conceitos de HTML e CSS.
 
