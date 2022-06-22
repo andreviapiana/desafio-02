@@ -4,7 +4,7 @@ Esse é o segundo desafio disponível no curso, no Stage 02 - Conhecendo novos c
 
 Neste desafio, recebemos uma página toda bagunçada e desalinhada, conforme a imagem abaixo:
 
-![Untitled](https://user-images.githubusercontent.com/106932234/174912632-b3e034ab-f5ed-4842-8e1a-1bf72ab32d9d.png)
+![Untitled2](https://user-images.githubusercontent.com/106932234/175142288-0119aefe-f06b-4b80-81a3-2d371210a0a9.png)
 
 O objetivo final foi realinhá-la e corrigir problemas de fontes e espaçamentos, de modo a deixá-la exatamente igual ao que vimos em aula, contando com a ajuda do projeto no Figma para conferência de medidas, layout, fontes e espaçamentos.
 
